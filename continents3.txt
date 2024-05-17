@@ -1,0 +1,2 @@
+Oceania:Australia-AU,Fiji-FJ,Cook Islands-CK
+Europe:United Kingdom-UK
